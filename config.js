@@ -55,8 +55,8 @@ const CONFIG = {
   sections: [
     {
       type: "greeting",
-      title: "Hi",
-      subtitle: "I really like your name btw!",
+      title: "Assalamualaikum Miroo",
+      subtitle: "Stop smiling at the screen and just read this!",
     },
     {
       type: "countdown",
@@ -70,17 +70,30 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
-      buttonText: "Send",
+        "Happy Birthday! 🎉 I’m so proud of everything you’ve achieved this year. May you keep shining and reaching for the stars—I'll always be cheering for you! ⭐ \n\nYou’re getting older, but don’t worry, you’re still not as smart as me. Anyway, enjoy your day and don't forget my treat! 🎂 \n\nI wanted to buy you a million-dollar gift, but then I realized... my presence is enough! You know Kabtan never fails! 😎 But wait, there’s more below. Click 'Next'!",
+      buttonText: "See the Surprise! 🎁",
     },
     {
       type: "ideas",
       lines: [
-        "That's what I was going to do.",
-        "But then I stopped.",
-        "I realised, I wanted to do something <strong>special</strong>.",
+        "I was wondering what gift to give you...",
+        "Flowers? They eventually wither away.",
+        "Chocolates or Cake? Well, you'd probably eat them all anyway!",
+        "Then I thought, why not create something <strong>unique</strong> (like you did)?",
         "Because,",
-        "You are Special <span>:)</span>",
+        "You are also <span>unique</span> to me!",
+      ],
+      bigLetters: "HBD",
+    }, ,
+    {
+      type: "ideas",
+      lines: [
+       "I was wondering what gift to give you...",
+        "Flowers? They eventually wither away.",
+        "Chocolates or Cake? Well, you'd probably eat them all anyway!",
+        "Then I thought, why not create something <strong>unique</strong> (like you did)?",
+        "Because,",
+        "You are also <span>unique</span>!",
       ],
       bigLetters: "SO",
     },
