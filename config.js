@@ -28,7 +28,7 @@
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
   name: "Miss Mira",
-  photo: "./img/WhatsApp Image 2026-03-28 at 5.23.42 AM",       // Place your photo in the img/ folder
+  photo: "./img/WhatsApp Image 2026-03-28 at 5.23.42 AM.jpeg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
