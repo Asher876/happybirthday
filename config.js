@@ -69,7 +69,7 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "Happy Birthday! 🎉 I’m so proud of everything you’ve achieved this year. May you keep shining and reaching for the stars—I'll always be cheering for you! ⭐ \n\nYou’re getting older, but don’t worry, you’re still not as smart as me. Anyway, enjoy your day and don't forget my treat! 🎂 \n\nI wanted to buy you a million-dollar gift, but then I realized... my presence is enough! You know Kabtan never fails! 😎 But wait, there’s more below. Click 'Next'!",
+        "Happy Birthday! 🎉 I’m so proud of everything you’ve achieved this year. May you keep shining and reaching for the stars—I'll always be cheering for you! ⭐ \n\nYou’re getting older, but don’t worry, you’re still not as smart as me. Anyway, enjoy your day and don't forget my treat! 🎂 \n\nI wanted to buy you a million-dollar gift, but then I realized... my presence is enough! You know Kabtan never fails! 😎 But wait, there’s more :). Click 'Next'!",
       buttonText: "See the Surprise! 🎁",
     },
     {
@@ -98,6 +98,11 @@ const CONFIG = {
       type: "chatbox",
       message: "FROM: 🌹 JOORY 🌹 \n\n اميرتي الصغيرة اليوم راح نحتفل بعيد ميلادك محتارة ب اي طريقة اعايدك شو ماعملت بهذا اليوم هو قليل.. \n\n كل عام وانتي بخير يا وردتي الصغيرة المدللةة.. يا احلا ضحكة وابرء وجه واطيب قلب.. كل عام وانتي بنوتي الصغيرةة الله لا يحرمني منك ❤️",
       buttonText: "Next Wish! ➡️",
+    },
+    {
+      type: "chatbox",
+      message: "FROM: THE CAPTAIN 🦅 \n\n Miraaa! Happy Birthday! 🤙🏻 \n\n I'm so glad our paths crossed. May your year be filled with endless smiles and moments that take your breath away... \n\n May your new year bring you all the beautiful things your heart desires. \n\n And most importantly... May you become as intelligent as me! 🙂✨ \n\n — Kabtan 🦅",
+      buttonText: "Don't get jealous! 😎",
     },
     {
       type: "stars",
