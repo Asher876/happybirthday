@@ -113,7 +113,7 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Okay, Now come back and tell me "you liked it".",
+      text: "Okay, Now come back and tell me 'you liked it'.",
       replayText: "Or click, if you want to watch it again.",
     },
   ],
