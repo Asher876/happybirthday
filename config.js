@@ -65,7 +65,7 @@ const CONFIG = {
     },
     {
       type: "announcement",
-      text: "It's your birthday!! :D",
+      text: "It's Your Day! :D",
     },
     {
       type: "chatbox",
@@ -76,22 +76,10 @@ const CONFIG = {
     {
       type: "ideas",
       lines: [
-        "I was wondering what gift to give you...",
-        "Flowers? They eventually wither away.",
-        "Chocolates or Cake? Well, you'd probably eat them all anyway!",
-        "Then I thought, why not create something <strong>unique</strong> (like you did)?",
-        "Because,",
-        "You are also <span>unique</span> to me!",
-      ],
-      bigLetters: "HBD",
-    }, ,
-    {
-      type: "ideas",
-      lines: [
        "I was wondering what gift to give you...",
         "Flowers? They eventually wither away.",
         "Chocolates or Cake? Well, you'd probably eat them all anyway!",
-        "Then I thought, why not create something <strong>unique</strong> (like you did)?",
+        "Then I thought, why not create something <strong>unique</strong>   (like you did)?",
         "Because,",
         "You are also <span>unique</span>!",
       ],
@@ -113,7 +101,7 @@ const CONFIG = {
     {
       type: "profile",
       wishTitle: "Happy Birthday!",
-      wishText: "May the js.prototypes always be with you! ;)",
+      wishText: "May the lightning hit you! (success lightning) ;)",
     },
     {
       type: "fireworks",
@@ -125,7 +113,7 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Okay, now come back and tell me if you liked it.",
+      text: "Okay, Now come back and tell me "you liked it".",
       replayText: "Or click, if you want to watch it again.",
     },
   ],
