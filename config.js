@@ -90,6 +90,11 @@ const CONFIG = {
       author: "Oprah Winfrey",
     },
     {
+      type: "chatbox",
+      message: "FROM: 🍬 CANDY 🍬 \n\n Doğum günün kutlu olsun Mira! 💖 \n\n Hâlâ birlikte saçmalayacak kadar genç ve enerjikiz 😄 Bugün senin günün. Yeni yaşın kalbin kadar güzel geçsin! 💖",
+      buttonText: "Sıradaki Mesaj! ➡️",
+    },
+    {
       type: "stars",
       count: 40,
     },
