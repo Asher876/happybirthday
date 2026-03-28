@@ -99,9 +99,9 @@ const CONFIG = {
       count: 25,
     },
     {
-      type: "profile",
-      wishTitle: "Happy Birthday!",
-      wishText: "May the lightning hit you! (success lightning) ;)",
+      type: "chatbox",
+      message: "May the lightning hit you! (success lightning) ;) \n\n Seriously though, have the best day ever! 🎉",
+      buttonText: "Finish! ❤️",
     },
     {
       type: "fireworks",
